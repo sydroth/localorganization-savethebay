@@ -15,14 +15,11 @@ Context
 
 A common job for web designers and developers working in consultancies or as freelancers is to redesign an existing site. Whether because they've become buggy, are poorly designed, or have gone out of style, websites occasionally need to be refreshed.
 
-Practicing with pre-existing content is a great way to focus on the structure and style of the site.
-
-As you work on this goal, consider these questions:
-
 What is the best way to package and display different types of content?
 When content needs to be re-used in different places, how can templates and/or components be deployed to avoid duplicating code?
 Why is browser compatibility important and what are some ways to test for it?
-Specifications
+
+SPECIFICATIONS
 
  Site has at least 3 pages.
  Site is not published on the web*.
@@ -31,9 +28,17 @@ Specifications
  All images and other external resources load correctly.
 *Copying another website's content is fine for practicing, but publishing it would likely infringe upon the original site's copyright.
 
-Required
+REQUIRED
 
 Do not remove these specs - they are required for all goals.
 
  External resources used are properly cited.
  The artifact produced is properly licensed, preferably with the MIT license.
+ 
+STANDARDS
+
+ -Clear and efficient variables
+ -Linting with (define a percentage)
+ -Good translation to mobile
+ -Use Material
+ -Utilize pull requests on Github to practice
