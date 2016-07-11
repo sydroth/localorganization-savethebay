@@ -38,7 +38,12 @@ Do not remove these specs - they are required for all goals.
 STANDARDS
 
  -Clear and efficient variables
+ 
  -Linting with (define a percentage)
+ 
  -Good translation to mobile
+ 
  -Use Material
+ 
  -Utilize pull requests on Github to practice
+ 
