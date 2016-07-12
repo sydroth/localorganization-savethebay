@@ -1,0 +1,28 @@
+body {
+  background-color: #7f9bb9;
+}
+
+h3 {
+  opacity: 1;
+}
+
+.padded {
+  padding: 20px;
+}
+
+
+.centered {
+  text-align: center;
+}
+
+.corp {
+  background: url('../img/corp.jpg');
+}
+
+.translucent {
+  opacity: 0.5;
+}
+
+.opaque {
+  opacity: 1;
+}
