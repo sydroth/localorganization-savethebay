@@ -15,9 +15,19 @@ h3 {
   text-align: center;
 }
 
-.corp {
+.fellowsPic {
+  background: url('../img/fellows.jpg');
+}
+
+.corpPic {
   background: url('../img/corp.jpg');
 }
+
+.individualsPic {
+  background: url('../img/individuals.jpg');
+}
+
+
 
 .translucent {
   opacity: 0.5;
