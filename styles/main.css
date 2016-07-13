@@ -1,9 +1,9 @@
 body {
-  background-color: #7f9bb9;
+  background-color: #F0F6F7;
 }
 
 h3 {
-  opacity: 1;
+  opacity: 5;
 }
 
 .padded {
@@ -16,7 +16,7 @@ h3 {
 }
 
 .corp {
-  background: url('../img/corp.jpg');
+  background: url('img/corp.jpg');
 }
 
 .translucent {
@@ -25,4 +25,40 @@ h3 {
 
 .opaque {
   opacity: 1;
+}
+
+.thumbnail {
+	position: relative;
+}
+
+
+.post-content {
+    background: none repeat scroll 0 0 #FFFFFF;
+    opacity: .5;
+    top:0;
+    left: 0;
+    position: absolute;
+}
+
+.centre
+{
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.homepicone {
+    background-image: url("img/homepicone.jpg");
+    background-size: cover;
+}
+
+.homepictwo {
+    background-image: url("img/homepictwo.jpg");
+    background-size: cover;
+}
+
+.homepicthree {
+    background-image: url("img/homepicthree.jpg");
+    background-size: cover;
 }
