@@ -15,12 +15,30 @@ h3 {
   text-align: center;
 }
 
+<<<<<<< HEAD
 .corp {
   background: url('img/corp.jpg');
+=======
+.fellowsPic {
+  background: url('../img/fellows.jpg');
+  background-size: cover;
 }
 
-.translucent {
-  opacity: 0.5;
+.corpPic {
+  background: url('../img/corp.jpg');
+  background-size: cover;
+}
+
+.individualsPic {
+  background: url('../img/individuals.jpg');
+  background-size: cover;
+>>>>>>> e9d61cd33cbe79a4e56e5531bcb66416854741f2
+}
+
+
+
+.panel-heading.translucent {
+  background: rgba( 255, 255, 255, 0.5 )
 }
 
 .opaque {
