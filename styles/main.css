@@ -32,8 +32,8 @@ h3 {
 
 
 
-.translucent {
-  opacity: 0.5;
+.panel-heading.translucent {
+  background: rgba( 255, 255, 255, 0.5 )
 }
 
 .opaque {
