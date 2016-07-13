@@ -19,6 +19,7 @@ h3 {
 .corp {
   background: url('img/corp.jpg');
 }
+
 .fellowsPic {
   background: url('../img/fellows.jpg');
   background-size: cover;
@@ -38,7 +39,7 @@ h3 {
 
 
 .panel-heading.translucent {
-  background: rgba( 255, 255, 255, 0.5 )
+  background: rgba( 255, 255, 255, 0.8 )
 }
 
 .opaque {
@@ -67,16 +68,42 @@ h3 {
 }
 
 .homepicone {
-    background-image: url("img/homepicone.jpg");
+    background: url("../img/homepicone.jpg");
     background-size: cover;
+    border-radius: 0 !important;
 }
 
 .homepictwo {
-    background-image: url("img/homepictwo.jpg");
+    background: url("../img/homepictwo.jpg");
     background-size: cover;
+    border-radius: 0 !important;
 }
 
 .homepicthree {
-    background-image: url("img/homepicthree.jpg");
+    background: url("../img/homepicthree.jpg");
     background-size: cover;
+    border-radius: 0 !important;
+}
+
+.panel-body.translucent {
+  background: rgba( 255, 255, 255, 0.8 )
+}
+
+.title1 {
+	background: gray;
+	color: white;
+	mix-blend-mode: multiply;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(../img/homepicthree.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 0 !important;
+}
+
+.square-edge {
+	border-radius:0px; -webkit-border-radius:0px; -moz-border-radius:0px;
 }
