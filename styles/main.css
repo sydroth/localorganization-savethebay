@@ -17,14 +17,17 @@ h3 {
 
 .fellowsPic {
   background: url('../img/fellows.jpg');
+  background-size: cover;
 }
 
 .corpPic {
   background: url('../img/corp.jpg');
+  background-size: cover;
 }
 
 .individualsPic {
   background: url('../img/individuals.jpg');
+  background-size: cover;
 }
 
 
