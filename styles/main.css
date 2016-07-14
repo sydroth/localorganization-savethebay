@@ -2,10 +2,6 @@ body {
   background-color: #deebed;
 }
 
-h3 {
-  opacity: 5;
-}
-
 .padded {
   padding: 20px;
 }
@@ -98,7 +94,7 @@ h3 {
   border-radius: 0 !important;
 }
 
-.square-edge {
+.square-edge, .panel {
   border-radius:0px;
   -webkit-border-radius:0px;
   -moz-border-radius:0px;
@@ -157,4 +153,27 @@ h3 {
 
 .margin-bottom {
   margin-bottom: 15px;
+}
+
+.no-top-margin {
+  margin-top: 0px;
+}
+
+.no-left-padding {
+  padding-left: 0px;
+}
+
+.no-right-padding {
+  padding-right: 0px;
+}
+
+.no-border {
+  border:0px;
+}
+
+.twitter {
+  background: #00abe3 url(../img/tweet.png) no-repeat 14px center;
+  background-size: 40px;
+  padding-left: 2.5em;
+  margin: 0px;
 }
