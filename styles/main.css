@@ -1,6 +1,5 @@
 body {
   background-color: #deebed;
-  /* old bg color #F0F6F7*/
 }
 
 h3 {
@@ -11,11 +10,9 @@ h3 {
   padding: 20px;
 }
 
-
 .centered {
   text-align: center;
 }
-
 
 .corp {
   background: url('img/corp.jpg');
@@ -34,10 +31,7 @@ h3 {
 .individualsPic {
   background: url('../img/individuals.jpg');
   background-size: cover;
-
 }
-
-
 
 .panel-heading.translucent {
   background: rgba( 255, 255, 255, 0.8 )
@@ -48,9 +42,8 @@ h3 {
 }
 
 .thumbnail {
-	position: relative;
+  position: relative;
 }
-
 
 .post-content {
   background: none repeat scroll 0 0 #FFFFFF;
@@ -60,8 +53,7 @@ h3 {
   position: absolute;
 }
 
-.centre
-{
+.centre {
   width: 200px;
   display: block;
   margin-left: auto;
@@ -91,10 +83,10 @@ h3 {
 }
 
 .title1 {
-	text-align: center;
-	background: gray;
-	color: white;
-	mix-blend-mode: multiply;
+  text-align: center;
+  background: gray;
+  color: white;
+  mix-blend-mode: multiply;
 }
 
 .jumbotron {
@@ -107,56 +99,53 @@ h3 {
 }
 
 .square-edge {
-	border-radius:0px; -webkit-border-radius:0px; -moz-border-radius:0px;
+  border-radius:0px;
+  -webkit-border-radius:0px;
+  -moz-border-radius:0px;
 }
 
 .cntr {
-	background-image: url(../img/homepicthree.jpg);
-	position: absolute;
+  background-image: url(../img/homepicthree.jpg);
+  position: absolute;
 }
-.footer {
-	white-space: nowrap;
-	display: flex;
-	flex-direction: row;
-	justify-content: space-around;
-	flex-wrap: nowrap;
 
+.footer {
+  white-space: nowrap;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: nowrap;
 }
 
 .footer .title1 {
-	font-size: 150%;
-	padding-left: 2em;
-	padding-right: 2em;
-
-
+  font-size: 150%;
+  padding-left: 2em;
+  padding-right: 2em;
 }
 
-
 @media only screen and (min-width: 300px) {
-	.footer .title1 {
-		font-size: 70%;
-	}
+  .footer .title1 {
+    font-size: 70%;
+  }
 }
 
 @media only screen and (min-width: 600px) {
-	.footer .title1 {
-		font-size: 90%;
-	}
+  .footer .title1 {
+    font-size: 90%;
+  }
 }
 
 @media only screen and (min-width: 800px) {
-	.footer .title1 {
-		font-size: 110%;
-	}
+  .footer .title1 {
+    font-size: 110%;
+  }
 }
 
 @media only screen and (min-width: 1200px) {
-	.footer .title1 {
-		font-size: 150%;
-	}
+  .footer .title1 {
+    font-size: 150%;
+  }
 }
-
-
 
 .blog-body {
   background-color: #deebed;
@@ -164,10 +153,8 @@ h3 {
 
 .margin-top {
   margin-top: 15px;
-
 }
 
 .margin-bottom {
   margin-bottom: 15px;
-
 }
