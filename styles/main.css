@@ -1,5 +1,6 @@
 body {
-  background-color: #F0F6F7;
+  background-color: #deebed;
+  /* old bg color #F0F6F7*/
 }
 
 h3 {
@@ -33,6 +34,7 @@ h3 {
 .individualsPic {
   background: url('../img/individuals.jpg');
   background-size: cover;
+
 }
 
 
@@ -51,11 +53,11 @@ h3 {
 
 
 .post-content {
-    background: none repeat scroll 0 0 #FFFFFF;
-    opacity: .5;
-    top:0;
-    left: 0;
-    position: absolute;
+  background: none repeat scroll 0 0 #FFFFFF;
+  opacity: .5;
+  top:0;
+  left: 0;
+  position: absolute;
 }
 
 .centre
@@ -67,21 +69,21 @@ h3 {
 }
 
 .homepicone {
-    background: url("../img/homepicone.jpg");
-    background-size: cover;
-    border-radius: 0 !important;
+  background: url("../img/homepicone.jpg");
+  background-size: cover;
+  border-radius: 0 !important;
 }
 
 .homepictwo {
-    background: url("../img/homepictwo.jpg");
-    background-size: cover;
-    border-radius: 0 !important;
+  background: url("../img/homepictwo.jpg");
+  background-size: cover;
+  border-radius: 0 !important;
 }
 
 .homepicthree {
-    background: url("../img/homepicthree.jpg");
-    background-size: cover;
-    border-radius: 0 !important;
+  background: url("../img/homepicthree.jpg");
+  background-size: cover;
+  border-radius: 0 !important;
 }
 
 .panel-body.translucent {
@@ -96,12 +98,12 @@ h3 {
 }
 
 .jumbotron {
-    margin-bottom: 0px;
-    background-image: url(../img/homepicthree.jpg);
-    background-position: 0% 25%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    border-radius: 0 !important;
+  margin-bottom: 0px;
+  background-image: url(../img/homepicthree.jpg);
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 0 !important;
 }
 
 .square-edge {
@@ -155,3 +157,17 @@ h3 {
 }
 
 
+
+.blog-body {
+  background-color: #deebed;
+}
+
+.margin-top {
+  margin-top: 15px;
+
+}
+
+.margin-bottom {
+  margin-bottom: 15px;
+
+}
