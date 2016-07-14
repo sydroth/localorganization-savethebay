@@ -1,0 +1,160 @@
+body {
+  background-color: #deebed;
+}
+
+h3 {
+  opacity: 5;
+}
+
+.padded {
+  padding: 20px;
+}
+
+.centered {
+  text-align: center;
+}
+
+.corp {
+  background: url('img/corp.jpg');
+}
+
+.fellowsPic {
+  background: url('../img/fellows.jpg');
+  background-size: cover;
+}
+
+.corpPic {
+  background: url('../img/corp.jpg');
+  background-size: cover;
+}
+
+.individualsPic {
+  background: url('../img/individuals.jpg');
+  background-size: cover;
+}
+
+.panel-heading.translucent {
+  background: rgba( 255, 255, 255, 0.8 )
+}
+
+.opaque {
+  opacity: 1;
+}
+
+.thumbnail {
+  position: relative;
+}
+
+.post-content {
+  background: none repeat scroll 0 0 #FFFFFF;
+  opacity: .5;
+  top:0;
+  left: 0;
+  position: absolute;
+}
+
+.centre {
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.homepicone {
+  background: url("../img/homepicone.jpg");
+  background-size: cover;
+  border-radius: 0 !important;
+}
+
+.homepictwo {
+  background: url("../img/homepictwo.jpg");
+  background-size: cover;
+  border-radius: 0 !important;
+}
+
+.homepicthree {
+  background: url("../img/homepicthree.jpg");
+  background-size: cover;
+  border-radius: 0 !important;
+}
+
+.panel-body.translucent {
+  background: rgba( 255, 255, 255, 0.8 )
+}
+
+.title1 {
+  text-align: center;
+  background: gray;
+  color: white;
+  mix-blend-mode: multiply;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
+  background-image: url(../img/homepicthree.jpg);
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 0 !important;
+}
+
+.square-edge {
+  border-radius:0px;
+  -webkit-border-radius:0px;
+  -moz-border-radius:0px;
+}
+
+.cntr {
+  background-image: url(../img/homepicthree.jpg);
+  position: absolute;
+}
+
+.footer {
+  white-space: nowrap;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+}
+
+.footer .title1 {
+  font-size: 150%;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+@media only screen and (min-width: 300px) {
+  .footer .title1 {
+    font-size: 70%;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .footer .title1 {
+    font-size: 90%;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .footer .title1 {
+    font-size: 110%;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .footer .title1 {
+    font-size: 150%;
+  }
+}
+
+.blog-body {
+  background-color: #deebed;
+}
+
+.margin-top {
+  margin-top: 15px;
+}
+
+.margin-bottom {
+  margin-bottom: 15px;
+}
