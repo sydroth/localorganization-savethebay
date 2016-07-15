@@ -38,11 +38,11 @@ STANDARDS
 
  -Clear and efficient variables
  
- -Linting with (define a percentage)
+ -Linting
  
  -Good translation to mobile
  
- -Use Material
+ -Use Bootstrap
  
- -Utilize pull requests on Github to practice
+ -Utilize good practices w/ pull requests on Github
  
