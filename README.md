@@ -1,15 +1,14 @@
 # localorganization-savethebay
 Cycle 1: Local Organization Website- Save the Bay
 
+Live link: http://savethebay.neocities.org/index.html
+
 Description
 
 Build a website for a local organization.
 
 Find an organization in your local community that has a website. It could be a business, a non-profit, a sports team, a community center, or something else in that vein.
 
-This will be your source of content. Then, design and build a new site for the organization. You can use the same content (text and images) to populate the site, but come up with a different design.
-
-If the site you pick has more than 3 pages, aim to build at least 3 of the most important pages (e.g. "Home", "About", "Contact").
 
 Context
 
