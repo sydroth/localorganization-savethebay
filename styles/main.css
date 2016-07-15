@@ -183,41 +183,41 @@ body {
 }
 
 .contact-box {
-	float: left;
-	border: 3px double;
-	border-color: teal;
-	padding: .5em;
-	height: 250px;
-	min-width: 60%;
+  float: left;
+  border: 3px double;
+  border-color: teal;
+  padding: .5em;
+  height: 250px;
+  min-width: 60%;
 }
 
 .map-box {
-	float: right;
-	padding: .5em
-	height: 250px;
-	max-width: 40%;
+  float: right;
+  padding: .5em
+  height: 250px;
+  max-width: 40%;
 }
 
 .form-control {
-	border: 3px;
-	border-color: teal;
-	border-radius:0px;
+  border: 3px;
+  border-color: teal;
+  border-radius:0px;
   -webkit-border-radius:0px;
   -moz-border-radius:0px;
 
 }
 
 .btn {
-	background-color: gray;
-	border-color: gray;
-	border-radius:0px;
+  background-color: gray;
+  border-color: gray;
+  border-radius:0px;
     -webkit-border-radius:0px;
     -moz-border-radius:0px;
 }
 
 .btn-hover:hover {
-	border-color: #244c5a;
-	background-color: #244c5a;
+  border-color: #244c5a;
+  background-color: #244c5a;
 }
 
 .row-contact {
