@@ -94,6 +94,10 @@ body {
   border-radius: 0 !important;
 }
 
+.jumbotron-home {
+   color:#F0F4F7;
+}
+
 .square-edge, .panel {
   border-radius:0px;
   -webkit-border-radius:0px;
@@ -120,25 +124,25 @@ body {
 }
 
 @media only screen and (min-width: 300px) {
-  .footer .title1 {
+  .footer .title1, .form-control {
     font-size: 70%;
   }
 }
 
 @media only screen and (min-width: 600px) {
-  .footer .title1 {
+  .footer .title1, .form-control{
     font-size: 90%;
   }
 }
 
 @media only screen and (min-width: 800px) {
-  .footer .title1 {
+  .footer .title1, .form-control {
     font-size: 110%;
   }
 }
 
 @media only screen and (min-width: 1200px) {
-  .footer .title1 {
+  .footer .title1, .form-control {
     font-size: 150%;
   }
 }
@@ -177,3 +181,46 @@ body {
   padding-left: 2.5em;
   margin: 0px;
 }
+
+.contact-box {
+	float: left;
+	border: 3px double;
+	border-color: teal;
+	padding: .5em;
+	height: 250px;
+	min-width: 60%;
+}
+
+.map-box {
+	float: right;
+	padding: .5em
+	height: 250px;
+	max-width: 40%;
+}
+
+.form-control {
+	border: 3px;
+	border-color: teal;
+	border-radius:0px;
+  -webkit-border-radius:0px;
+  -moz-border-radius:0px;
+
+}
+
+.btn {
+	background-color: gray;
+	border-color: gray;
+	border-radius:0px;
+    -webkit-border-radius:0px;
+    -moz-border-radius:0px;
+}
+
+.btn-hover:hover {
+	border-color: #244c5a;
+	background-color: #244c5a;
+}
+
+.row-contact {
+  margin-top: 30px;
+}
+
